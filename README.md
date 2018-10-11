@@ -38,6 +38,8 @@ This will fetch and build all dependencies and install Photog! to your
 `sudo` to the above command. Instead of fetching from CPAN, t's also
 possible to run `cpan .` inside the source directory.
 
+cpan hosts the original rtts version, not this fork.
+
 ### Installation - the old-fashioned way
 
     $ perl Makefile.PL
@@ -54,7 +56,7 @@ distributions and pushes them to the 'stable' branch. Dist::Zilla can
 also be used for installing the module from the original source code
 (which lives in the master branch).
 
-    $ git clone https://github.com/rtts/photog.git
+    $ git clone https://github.com/konrul/photog.git
     $ git checkout master
     $ dzil install
 
