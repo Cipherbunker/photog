@@ -1,3 +1,6 @@
+A fork of the excellent rtts/photog incorporating some patches waiting in the queue.
+Patches welcome, please send a pull request.
+
 Photog!
 =======
 
